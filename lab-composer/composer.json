@@ -1,0 +1,18 @@
+{
+    "name": "jkosciolowski/lab-composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jkosciolowski\\LabComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jakub Kosciolowski"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.2"
+    }
+}
